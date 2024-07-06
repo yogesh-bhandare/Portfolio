@@ -1,9 +1,8 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
 import CricAuc from '../assets/projects/Cric-Auc.png'
 import KMart from '../assets/projects/K-Mart.png'
 import Picksportz from '../assets/projects/Picksportz.png'
 import Vital from '../assets/projects/Vital.png'
+import Sorting from '../assets/projects/Sorting_Visualizer.png'
 
 export const data=[
     {
@@ -38,6 +37,12 @@ export const data=[
         github:"https://github.com/yogesh-bhandare/Picksportz",
         live:"",
     },
-
-
+    {
+        id:5,
+        name:"Sorting Visualizer",
+        description: "This project uses Python and Pygame to create dynamic visualizations for bubble sort, insertion sort, selection sort, and merge sort. Each algorithm is visualized in both ascending and descending order, providing an interactive way to understand and compare the sorting processes.",
+        image:Sorting,
+        github:"https://github.com/yogesh-bhandare/Sorting_Algorithm_Visualizer",
+        live:"",
+    },
 ]
