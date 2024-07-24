@@ -1,7 +1,7 @@
 import CricAuc from '../assets/projects/Cric-Auc.png'
 import KMart from '../assets/projects/K-Mart.png'
 import Picksportz from '../assets/projects/Picksportz.png'
-import Vital from '../assets/projects/Vital.png'
+import Vital from '../assets/projects/vital.png'
 import Sorting from '../assets/projects/Sorting_Visualizer.png'
 
 export const data=[
@@ -11,7 +11,7 @@ export const data=[
         description: "K-Mart is a cross-platform mobile app designed to assist farmers by providing real-time market prices for seasonal yields, ensuring they can sell their produce at competitive prices. It features a crop doctor function for scanning crop health, along with essential tools such as news, events, and weather updates, making it a comprehensive application tailored for farmers.",
         image:KMart,
         github:"https://github.com/yogesh-bhandare/K-MART-APP",
-        live:"",
+        live:"https://expo.dev/accounts/yogesh8/projects/K-Mart-Application/builds/5047dad9-edd1-4717-a19b-a27b359cb9cf",
     },
     {
         id:2,
